@@ -2,22 +2,22 @@
 main:
   - 
     title: Pimp My mini
-    url: /
+    url: Pimp-My-mini/
   - 
     title: Start Here
-    url: get-started
+    url: Pimp-My-mini/get-started
   - 
     title: Site Navigation
-    url: site-navigation
+    url: Pimp-My-mini/site-navigation
   - 
     title: FAQ
-    url: faq
+    url: Pimp-My-mini/faq
   - 
     title: RiiConnect24
-    url: riiconnect24
+    url: Pimp-My-mini/riiconnect24
   - 
     title: Wiimmfi
-    url: wiimmfi
+    url: Pimp-My-mini/wiimmfi
 top:
   -
     title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
@@ -30,29 +30,29 @@ footer:
     url: https://github.com/Wii-Mini-Hacking/Pimp-My-mini/
   - 
     title: Site Navigation
-    url: site-navigation
+    url: Pimp-My-mini/site-navigation
   - 
     title: Donations
-    url: donations
+    url: Pimp-My-mini/donations
 sidebar_title:
   - 
     title: Overall Progress
 sidebar_pages:
   - 
     title: Pimp My mini
-    url: /
+    url: Pimp-My-mini/
   - 
     title: FAQ
-    url: faq
+    url: Pimp-My-mini/faq
   - 
     title: Donations
-    url: donations
+    url: Pimp-My-mini/donations
   - 
     title: Credits
-    url: credits
+    url: Pimp-My-mini/credits
   - 
     title: RiiConnect24
-    url: riiconnect24
+    url: Pimp-My-mini/riiconnect24
   - 
     title: Wiimmfi
-    url: wiimmfi
+    url: Pimp-My-mini/wiimmfi
