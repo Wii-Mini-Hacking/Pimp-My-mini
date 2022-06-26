@@ -9,14 +9,14 @@ minimal_mistakes_skin    : "nord"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wii Guide"
+title                    : "Pimp My mini Guide"
 title_separator          : "-"
-name                     : "RiiConnect24"
+name                     : "Wii mini Hacking"
 description              : "Wii modding guide"
-url                      : "https://wii.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "wii.guide"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "RiiConnect24/Wii-Guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://wii-mini-hacking.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+enforce_ssl              : "wii-mini-hacking.github.io"
+baseurl                  : "/Pimp-My-mini" # the subpath of your site, e.g. "/blog"
+repository               : "Wii-Mini-Hacking/Pimp-My-mini" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -51,16 +51,16 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : NJHNJQvHO4NNbW_2IYtDhRIfX5-4kUpwkxsmVfM7S34
-bing_site_verification   : 229FBDF9FE2F1A36CEDFAB9F171C6A4E
+google_site_verification : # TODO: Add SEO
+bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "RiiConnect24"
+  username               :
 facebook:
-  username               : "RiiConnect24"
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -73,29 +73,29 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-72766480-5"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "RiiConnect24"
+  name             : "Wii mini Hacking"
   avatar           : "bio-photo.png"
-  bio              : "WiiConnect24 replacement"
+  bio              : "Wii mini Modding community"
   location         : "United States"
-  email            : "support@riiconnect24.net"
-  uri              : "https://rc24.xyz"
+  email            :
+  uri              : "https://wii-mini-hacking.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "RiiConnect24"
+  facebook         :
   foursquare       :
-  github           : "RiiConnect24"
-  google_plus      : "RiiConnect24"
+  github           : "Wii-Mini-Hacking"
+  google_plus      :
   keybase          :
-  instagram        : "RiiConnect24"
+  instagram        :
   lastfm           :
   linkedin         :
   pinterest        :
@@ -103,11 +103,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "RiiConnect24"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : "RiiConnect24"
+  youtube          :
 
 
 # Reading Files
@@ -139,7 +139,7 @@ exclude: [
   Rakefile,
   README,
   tmp,
-  #NOTE: translations for the really far future, uncomment those that are ready
+  #NOTE: translations for the really far future, comment out those that are ready
   _pages/ca_ES,
   _pages/cs_CZ,
   _pages/da_DK,
