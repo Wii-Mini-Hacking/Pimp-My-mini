@@ -1,7 +1,7 @@
 # Pimp My mini
 
 [![License](https://img.shields.io/github/license/Wii-Mini-Hacking/Pimp-My-mini.svg?style=flat-square)](LICENSE.txt)
-![Production List](https://img.shields.io/discord/379818272230473729.svg?style=flat-square)
+![Discord Server](https://img.shields.io/discord/379818272230473729.svg?style=flat-square)
 
 Pimp my mini is the complete guide to hardware modding your Nintendo Wii mini console
 It contains useful tutorials and information on restoring missing functionality from the Wii mini console or expanding its abilities further, making it closer in features to the original Wii console, with a dramatically different console footprint.
