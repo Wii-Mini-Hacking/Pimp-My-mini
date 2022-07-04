@@ -6,18 +6,16 @@ main:
   - 
     title: Start Here
     url: Pimp-My-mini/get-started
+  -
+    title: Pick-a-Pimp
+    url: Pimp-My-mini/pick-a-pimp
   - 
     title: Site Navigation
     url: Pimp-My-mini/site-navigation
   - 
     title: FAQ
     url: Pimp-My-mini/faq
-  - 
-    title: RiiConnect24
-    url: Pimp-My-mini/riiconnect24
-  - 
-    title: Wiimmfi
-    url: Pimp-My-mini/wiimmfi
+
 top:
   -
     title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
