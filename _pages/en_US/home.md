@@ -32,8 +32,6 @@ The Wii mini (model RVL-201, hereafter referred to as "Wiini" for short), was a 
 
 Even then, the Wii mini still sold an acceptable amount of units, especially to young children or elderly people, due to its really low cost (MSRP of around 99 USD) and large back-catalog of offline games that could still run on it perfectly fine. Getting one currently is not really recommended, since an original Wii costs less on average and has more features out of the box. If you happen to have bought one back when it was first released though, this guide will help you get the most out of it.
 
-## "Pimp" my mini?? What!? 😏
-The name of this guide is taken from the American television series [Pimp My Ride](https://en.wikipedia.org/wiki/Pimp_My_Ride) and the title is used in a similar manner, in the sense of improving and upgrading your Wii mini console.
 ## Ready?
 
 Well... we're not, so you're gonna have to wait a little. In the meantime, you can join [our Discord server](https://discord.gg/6ryxnkS) for discussion, support or to help us complete this website!

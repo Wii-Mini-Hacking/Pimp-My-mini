@@ -14,6 +14,14 @@ sitemap: false
 
 {% capture notice-2 %}
 
+**Generic Mods**
++ [Reset Switch](reset)
++ [SD Card Slot](sdcard)
+
+**Custom Add-in Boards**
++ [WiiMini-SDRST by WebHDX](sdrst)
++ [miniRGBii Component Filter Board by Job and Devnol](miniRGBii)
+
 **Site**
 + [Home](/)
 + [Get Started](get-started)

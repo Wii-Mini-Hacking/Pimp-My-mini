@@ -2,6 +2,10 @@
 title: Pick-a-Pimp
 ---
 
-{% include toc title="Table of Contents" %}
+## Available Mods
 
-TBA
+The following hardware mods are currently available, with more to come in the future:
+
+<!--- [WebHDX\'s SD-RST Board](sdrst)-->
+- [Reset Switch](reset)
+<!--- [SD Card Slot](sdcard)-->

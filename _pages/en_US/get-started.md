@@ -21,7 +21,7 @@ If something doesn't quite make sense, you can try visualising how it will work 
 - A standard Phillips #0 screwdriver
 - A good quality soldering iron with a flat but fine tip. If you're looking for a good but cheap option, we recommend the miniware TS100/TS80 series or the Pine64 Pinecil (not affiliated with either, we just use them in the community and find them really cool and useful).
 - Thin solder, optionally rosin core
-- Flux in either pen, syringe or paste form, depending on your preference (optional but highly recommended for more advanced mods).
+- Flux in either pen, liquid, syringe or paste form, depending on your preference (optional but highly recommended for more advanced mods).
 - Multimeter with resistance or continuity mode, useful for diagnosing 
 
 We will not teach you how to use any of these tools, simply because this guide is not for beginners to soldering, but if you are really determined you can try a soldering practice kit and look up guides and tutorials online.
