@@ -12,9 +12,9 @@ main:
   - 
     title: Site Navigation
     url: Pimp-My-mini/site-navigation
-  - 
-    title: FAQ
-    url: Pimp-My-mini/faq
+  #- 
+  #  title: FAQ
+  #  url: Pimp-My-mini/faq
 
 top:
   -

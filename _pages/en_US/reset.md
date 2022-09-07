@@ -1,7 +1,7 @@
 ---
 title: Reset Switch
 ---
-
+{% include toc title="Table of Contents" %}
 <!--If you're looking for a more elegant solution to this and the SD card mod, [WebHDX's sd-rst board](sdrst) is for you.
 {: .notice--info }-->
 
@@ -16,12 +16,13 @@ A simple reset switch is the simplest hardware mod available for the Wii mini. I
 ## Installation
 
 1.	Flip your console around and locate the test pad labeled `TP233` on your board, marked with purple below:
-	![Reset Test Point](/Pimp-My-mini/images/reset/tp233.png)
+	![Reset Test Point](/Pimp-My-mini/images/motherboard/tp233.png)
+	
 
 1.	Solder one of your two wires on that pad and to one side of your switch  
 
 1.	Solder the other wire to the opposite side of your switch (if it's a 4-pin smd or tht button the pin diagonal to the one you soldered to before will always be on the opposite side of the open circuit) and connect it to any ground pad on the board, marked black below:
-	![Ground Pads](/Pimp-My-mini/images/gnd.png)
+	![Ground Pads](/Pimp-My-mini/images/motherboard/gnd.png)
 
 	Please check wether the pad you're soldering to interferes with the metal shield or any screws before soldering. It's okay to bend a shield flap a little if you want it to fit, as long as it doesn't interfere with the console's plastic casing.
 	{: .notice--info }
@@ -35,6 +36,7 @@ A simple reset switch is the simplest hardware mod available for the Wii mini. I
 
 You can now test whether the button works simply by powering up your console and pressing the button once inside the System Menu or any other game. The current application should reload.
 
-If your console appears to be stuck in a bootloop or is otherwise resetting constantly, check that the button is not shorting against anything and that it is in fact normally open. If you have a multimeter, you can do that by setting it to continuity mode and measuring between the two wires. You should have no continuity (Ol or 1 on the meter's screen) when the button is not pressed and a direct short (close to 0, with a beep if the meter has a buzzer) when pressing the button.
+If your console appears to be stuck in a bootloop or is otherwise resetting constantly, check that the button is not shorting against anything and that it is in fact normally open. If you have a multimeter, you can do that by setting it to continuity mode and measuring between the two wires. You should have no continuity (OL or 1 on the meter's screen) when the button is not pressed and a direct short (close to 0, with a beep if the meter has a buzzer) when pressing the button.
 
 We'd love to see your completed mod, feel free to join us on [our Discord](https://discord.gg/6ryxnkS) and post a picture in #pimping-general
+{: .notice--success }
