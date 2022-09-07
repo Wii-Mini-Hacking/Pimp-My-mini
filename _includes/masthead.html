@@ -12,7 +12,7 @@
             {% assign locale_var = locale | prepend:'/' | append:'/' %}
           {% endif %}
           {% for link in site.data.navigation[locale].main %}
-            {% if link.url == "/" %}
+            {% if link.url == "Pimp-My-mini/" %} <!-- XXX: check if this breaks with l10n-->
               <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ domain }}{{ locale_var }}">{{ link.title }}</a></li>
             {% else %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}{{ link.url }}">{{ link.title }}</a></li>
