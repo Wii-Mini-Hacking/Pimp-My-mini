@@ -23,8 +23,7 @@ For macOS and Linux-based systems, Sharpii NetCore is the easiest option, but it
 1. Decompress the 7z and optionally copy the Sharpii executable to a location of your choice
 1. (macOS/Linux only): Open your Terminal app (on macOS it's in the Utilities folder in your Launchpad), type `chmod +x ` and drag the Sharpii binary you just extracted from your file explorer to the terminal window, then hit enter to make it executable.
 1. Open a terminal window in the folder Sharpii is in (or cd to it)
-	- For Windows, while inside the folder in File Explorer, hit `Ctrl+L`, type `cmd` and hit `Enter`.
-	- For macOS, go one directory above the folder, `Ctrl+Click` the folder icon > services > New Terminal at Folder
+	- For macOS, go one directory above the folder, `Ctrl+Click` the folder icon > Services > New Terminal at Folder
 
 ### Section II - Installing the WAD
 

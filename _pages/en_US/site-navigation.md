@@ -3,7 +3,7 @@ title: "Site Navigation" #
 layout: single
 sitemap: false
 ---
-![WiiTutorials](/images/WiiTutorials.jpg)
+<!--![WiiTutorials](/images/WiiTutorials.jpg) TODO: Add Wiini image-->
 
 {% capture notice-1 %}
 **Featured**
@@ -23,7 +23,8 @@ sitemap: false
 + [miniRGBii Component Filter Board by Job and Devnol](miniRGBii)
 
 **Software Mods**
-+ [Mii Channel removed functionality](mii-upgrade)
++ [Original System Menu install (no WiFi card)](sminstall-nowifi)
++ [Mii Channel restore removed functionality](mii-upgrade)
 
 **Site**
 + [Home](/)

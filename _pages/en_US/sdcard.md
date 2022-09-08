@@ -73,7 +73,7 @@ An SD card slot is a helpful addition to the Wii mini, as it enables the use of 
 While the card reader is installed, it will not be functional yet, as the stock Wii mini IOS does not include SD support. For that, you will have to install a customized version of the original Wii IOS that removes the need for a WiFi card, as well as the original Wii system menu to restore the removed SD card menu.
 
 <script>
-	let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
     let tablinks = document.getElementsByClassName("tablinks");
 
     function openTab(evt, tabName) {
@@ -96,6 +96,8 @@ While the card reader is installed, it will not be functional yet, as the stock 
     // Get the element with id="defaultOpen" and click on it
     document.getElementById("defaultOpen").click();
 </script>
+
+If you haven't already, you will need to install the original Wii System Menu:
 
 [Continue to installing the System Menu (no WiFi card)](sminstall-nowifi)
 Without a WiFi card, a special procedure has to be followed to restore SD card functionality, as well as other stripped out features.
