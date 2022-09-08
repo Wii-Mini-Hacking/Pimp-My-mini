@@ -40,3 +40,7 @@ If your console appears to be stuck in a bootloop or is otherwise resetting cons
 
 We'd love to see your completed mod, feel free to join us on [our Discord](https://discord.gg/6ryxnkS) and post a picture in #pimping-general
 {: .notice--success }
+
+[Return to Pick-a-Pimp](pick-a-pimp) | [Continue to site navigation](site-navigation)<br>
+We have other tutorials that you might like.
+{: .notice--info}

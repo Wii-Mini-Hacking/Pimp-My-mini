@@ -28,7 +28,7 @@ An SD card slot is a helpful addition to the Wii mini, as it enables the use of 
 	<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'microSD')">microSD</button>
 
 	<div id="SD" class="blanktabcontent" markdown="1">
-	| Test Pad | Name(s) | SDcard pin |
+	| Test Pad | Name(s) | SD card pin |
 	|----------|---------|------------|
 	|TP166     |Dat2     |9           |
 	|TP167     |Dat3/CS  |1           |

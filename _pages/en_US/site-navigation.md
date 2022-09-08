@@ -14,13 +14,16 @@ sitemap: false
 
 {% capture notice-2 %}
 
-**Generic Mods**
+**Hardware Mods**
 + [Reset Switch](reset)
 + [SD Card Slot](sdcard)
 
 **Custom Add-in Boards**
 + [WiiMini-SDRST by WebHDX](sdrst)
 + [miniRGBii Component Filter Board by Job and Devnol](miniRGBii)
+
+**Software Mods**
++ [Mii Channel removed functionality](mii-upgrade)
 
 **Site**
 + [Home](/)
