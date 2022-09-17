@@ -19,7 +19,7 @@ sitemap: false
 + [SD Card Slot](sdcard)
 
 **Custom Add-in Boards**
-+ [WiiMini-SDRST by WebHDX](sdrst)
++ [TBA: WiiMini-SDRST by WebHDX](sdrst)
 + [miniRGBii Component Filter Board by Job and Devnol](miniRGBii)
 
 **Software Mods**

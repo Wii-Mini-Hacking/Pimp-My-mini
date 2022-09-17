@@ -103,7 +103,11 @@ If you haven't already, you will need to install the original Wii System Menu:
 Without a WiFi card, a special procedure has to be followed to restore SD card functionality, as well as other stripped out features.
 {: .notice--info }
 
-<!-- TODO: Add link to WiFi guide -->
+If you already have a WiFi card installed, you should have already re-installed the System Menu. 
+
+[Return to Pick-a-Pimp](pick-a-pimp) | [Continue to site navigation](site-navigation)<br>
+We have other tutorials that you might like.
+{: .notice--info }
 
 We'd love to see your completed mod, feel free to join us on [our Discord](https://discord.gg/6ryxnkS) and post a picture in #pimping-general
 {: .notice--success }

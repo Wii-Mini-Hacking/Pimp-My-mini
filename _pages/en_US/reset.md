@@ -39,7 +39,7 @@ You can now test whether the button works simply by powering up your console and
 If your console appears to be stuck in a bootloop or is otherwise resetting constantly, check that the button is not shorting against anything and that it is in fact normally open. If you have a multimeter, you can do that by setting it to continuity mode and measuring between the two wires. You should have no continuity (OL or 1 on the meter's screen) when the button is not pressed and a direct short (close to 0, with a beep if the meter has a buzzer) when pressing the button.
 
 We'd love to see your completed mod, feel free to join us on [our Discord](https://discord.gg/6ryxnkS) and post a picture in #pimping-general
-{: .notice--success }
+{: .notice--success}
 
 [Return to Pick-a-Pimp](pick-a-pimp) | [Continue to site navigation](site-navigation)<br>
 We have other tutorials that you might like.

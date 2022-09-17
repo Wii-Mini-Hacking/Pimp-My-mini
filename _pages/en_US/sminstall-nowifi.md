@@ -16,7 +16,7 @@ The Wii mini's System Menu, while it is the latest version (4.3E/U), has been he
 
 In order to restore any of these features with hardware mods, replacing the Wii mini System Menu with the original one, as well as replacing some other modified [IOS](https://wiibrew.org/wiki/IOS) (slot 80 for the System Menu itself, slot 58 for the Homebrew Channel and 36 for legacy homebrew and most disc games), is also needed. However, if you do not have a WiFi card installed, simply installing the original Wii IOS **will BRICK the console** since it will hang on initializing the card. Instead, a custom tool called Wiini SD Patcher is used to patch out the WiFi module driver from the required IOSes and relatively safely install them. 
 
-You will only have to do this once. If you performed a second hardware mod that requires it, you won't need to reinstall the System Menu again.
+You will only need to do this once. If you performed a second hardware mod that requires it, such as installing a component mod after an SD card slot mod (or vice versa), you won't need to reinstall the System Menu again.
 {: .notice--info }
 
 ## Instructions
@@ -131,7 +131,7 @@ Note that the Homebrew channel may appear upside-down. That is normal due to the
 </script>
 
 We'd love to see your completed mod, feel free to join us on [our Discord](https://discord.gg/6ryxnkS) and post a picture in #pimping-general
-{: .notice--success }
+{: .notice--success}
 
 [Return to Pick-a-Pimp](pick-a-pimp) | [Continue to site navigation](site-navigation)<br>
 We have other tutorials that you might like.

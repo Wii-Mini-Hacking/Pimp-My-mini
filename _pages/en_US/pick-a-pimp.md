@@ -20,12 +20,12 @@ Specifically:
 (1) While connection to the Internet will be available, use of services such as WiiConnect/RiiConnect24 or Nintendo WFC/wiimmfi are not available without the installation of a WiFi card and an original Wii System menu along with original IOS.
 ## Available Guides
 
-The following  guides are currently available, with more to come in the future:
+The following guides are currently available, with more to come in the future:
 
-<!--- TBA: [webhdx\'s SDRST Board for a reset button and microSD card slot](sdrst)-->
+<!--- TBA: [webhdx\'s SDRST add-in board for a reset button and microSD card slot](sdrst)-->
 - [Reset Switch](reset)
 - [Generic SD/microSD Card Slot](sdcard)
-<!--- TBA: [miniRGBii component video](miniRGBii)-->
+- [miniRGBii add-in board for component video/480p output](miniRGBii)
 <!--- TBA: [WiFi Adapter install](wifi)-->
 <!--- TBA: [GameCube controller ports 1&4](gcc)-->
 <!--- TBA: [GameCube memory card slot 1](gcmem)-->
