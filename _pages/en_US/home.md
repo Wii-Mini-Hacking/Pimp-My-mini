@@ -35,9 +35,6 @@ The Wii mini (model RVL-201, hereafter referred to as "Wiini" for short), was a 
 Even then, the Wii mini still sold an acceptable amount of units (though specific numbers are unknown), especially to young children or elderly people, due to its really low cost (MSRP of around 99 USD) and large back-catalog of games. If you're just looking for a Wii to play games on, we wouldn't recommend getting a Wiini, since a used non-mini Wii costs less and provides more features. However, if you happen to already own one or are simply interested in its modding potential, this guide is just right for you.
 ## Ready?
 
-Well... we're not, so you're gonna have to wait a little. In the meantime, you can join [our Discord server](https://discord.gg/6ryxnkS) for discussion, support or to help us complete this website!
-{: .notice--info}
-
 Continue to [Getting Started](get-started)
 {: .notice--info}
 
