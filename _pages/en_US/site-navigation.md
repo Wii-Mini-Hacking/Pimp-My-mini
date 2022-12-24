@@ -14,12 +14,12 @@ sitemap: false
 
 {% capture notice-2 %}
 
-**Hardware Mods**
+**Generic Hardware Mods**
 + [Reset Switch](reset)
 + [SD Card Slot](sdcard)
 
 **Custom Add-in Boards**
-+ [TBA: WiiMini-SDRST by WebHDX](sdrst)
++ [WiiMini-SDRST by WebHDX](sdrst)
 + [miniRGBii Component Filter Board by Job and Devnol](miniRGBii)
 
 **Software Mods**

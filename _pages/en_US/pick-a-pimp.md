@@ -22,8 +22,8 @@ Specifically:
 
 The following guides are currently available, with more to come in the future:
 
-<!--- TBA: [webhdx\'s SDRST add-in board for a reset button and microSD card slot](sdrst)-->
-- [Reset Switch](reset)
+- [Webhdx\'s SDRST add-in board for a reset button and microSD card slot](sdrst)
+- [Generic reset switch](reset)
 - [Generic SD/microSD Card Slot](sdcard)
 - [miniRGBii add-in board for component video/480p output](miniRGBii)
 <!--- TBA: [WiFi Adapter install](wifi)-->

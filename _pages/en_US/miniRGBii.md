@@ -7,10 +7,9 @@ title: miniRGBii Component Mod
 
 One feature that really sets the Wii mini apart from its older brother, is the lack of clear, 480p Component video. Instead, the console is limited to only interlaced outputs over Composite, resulting in a relatively terrible image. However, members of the Wii mini hacking community have managed to create a board that allows you to use the Wii Component cable and get full progressive scan.
 
-## Parts Required
+## Parts/Tools Required
 
 - Job and Devnol's miniRGBii board, which you can [purchase on Tindie](https://www.tindie.com/products/27985/) or get the [Open Source KiCAD files](https://github.com/Wii-Mini-Hacking/miniRGBii) from our GitHub to manufacture it yourself.
-<!--TODO: add tindie link-->
 - A Wii AV Component cable. Though Nintendo no longer sells these, you can get 3rd party options in varying quality and price rangess.
 - Very thin wrapping or enameled magnet wire (≤30awg)
 - A _quality_ soldering iron with a fine tip
