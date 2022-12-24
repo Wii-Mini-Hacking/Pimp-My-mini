@@ -23,7 +23,7 @@ You will only need to do this once. If you performed a second hardware mod that 
 
 ### Section I - Downloading required files
 
-1. Download the latest release of [Wiini SD Patcher](https://github.com/Wii-Mini-Hacking/wiini-sd-patcher/releases/latest) in zip form, decompress it and place the Wiini-SD-Patcher folder inside the /apps folder located in the root of your USB storage device.
+1. Download the latest zip release of [Wiini SD Patcher](https://github.com/Wii-Mini-Hacking/wiini-sd-patcher/releases/latest/download/Wiini-SD-Patcher.zip), decompress it and place the Wiini-SD-Patcher folder inside the /apps folder located in the root of your USB storage device.
 1. Determine your Wii mini System menu version.
 	- On your console's home menu, navigate to the Wii options in the bottom left corner
 	- Choose Wii Settings
@@ -95,15 +95,26 @@ chmod +x
 1. Hold the home button again for 2 seconds.
 1. Wait for the patcher to complete, if all goes well you should automatically return to the System Menu, and you should immediately notice an SD card icon on the bottom left, which will indicate that the operation was successful.
 
-If you see an error, take a picture or a note of it, the app may return you to the Homebrew channel. Do **NOT** turn off the console and join our support discord **immediately** (link at the top of the page).
+If you see an error, take a picture or a note of it, the app may return you to the Homebrew channel. Do **NOT** turn off the console. Join our support discord **immediately** (link at the top of the page).
 {: .notice--warning }
 
 ## Conclusion
 
-The complete Wii System Menu should now be installed. You can now use any hardware mods you have made that require it. 
+The complete Wii System Menu should now be installed and the sd card and other wii-specific features should work in the homebrew channel and most homebrew apps. You can now use any hardware mods you have made that require it. 
 
 Note that the Homebrew channel may appear upside-down. That is normal due to the nature of the custom nowifi IOS installed. That issue can be solved by [Installing the Open Homebrew Channel wad](https://github.com/wii-Mini-Hacking/hbc/releases/latest) instead using [Wii Mod Lite](https://wii.guide/wiimodlite)
 {: .notice--info }
+
+### BONUS! - Temporary Priiloader fix
+
+Due to the fact that the developer of the Wiini SD patcher is highly incompetent, the patcher currently breaks priiloader and perhaps some other functionality, which may be a problem for some users. It is strongly recommended you follow the steps below to fix the issue, which will be properly fixed in a future release of the patcher, sometime soon™.
+
+1. Download the latest release of [Priiloader](https://oscwii.org/library/app/priiloader) and extract the contents of the zip to your SD card or USB drive.
+1. Download [Wii Mod Lite](https://wii.guide/wiimodlite) and extract the contents of the zip to your USB drive. 
+1. Open Wii Mod Lite from the Homebrew Channel, go to WAD Manager and select USB Mass Storage Device.
+1. Install **ONLY** the System Menu v4.3 WAD you acquired in section I, do **NOT** install any of the 3 IOSes because you **WILL** brick your console.
+1. Exit Wii Mod Lite, go back to the Homebrew Channel and start the Priiloader Installer. You should now be able to use Priiloader as normal, just keep in mind that you will need to redo any hacks or settings you had applied previously.
+1. (Optional): Join the Discord and tell Devnol how big an idiot he is.
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
