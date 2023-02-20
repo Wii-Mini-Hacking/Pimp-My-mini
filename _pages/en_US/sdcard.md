@@ -43,6 +43,8 @@ An SD card slot is a helpful addition to the Wii mini, as it enables the use of 
 	
 	(if CD and/or WL are unavailable, short TP168 and/or TP169 respectively to ground to bypass them).
 
+	Note: Some SD breakout boards have the Card Detect pin active high, which is opposite of what the Wii mini expects. If you are using one of these boards, you will need to short TP168 to any GND pin on the board. This will not affect the cards operation other than making it always appear to be inserted. Please check your breakout board's datasheet for more information. The same may apply to the Write Lock pin, but this is not as common.
+	
 	SD Card pins map as follows (image provided by [pinouts.org](https://pinouts.org)): ![SD Pinout](/Pimp-My-mini/images/SD-pinout.png)
 
 	</div>
@@ -60,8 +62,10 @@ An SD card slot is a helpful addition to the Wii mini, as it enables the use of 
 	|TP165     |Dat1     |8           |
 	|TP168     |CD/Det (Card Detect)|N/A, on breakout board|
 	|TP169     |WP/WL (Write Lock)|N/A, wire it to any GND|
-	
+
 	(if CD is unavailable, short TP168 to any ground to bypass it).
+	
+	Note: Some microSD breakout boards, like the Adafruit one recommended above will have the Card Detect pin active high, which is opposite of what the Wii mini expects. If you are using one of these boards, you will need to short TP168 to any GND pin on the board. This will not affect the cards operation other than making it always appear to be inserted. Please check your breakout board's datasheet for more information. The same may apply to the Write Lock pin, but this is not as common.
 
 	microSD Card pins map as follows (image provided by [pinouts.org](https://pinouts.org)): ![microSD Pinout](/Pimp-My-mini/images/microSD-pinout.png)
 
