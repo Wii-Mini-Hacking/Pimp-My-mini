@@ -41,7 +41,7 @@ Continue to [Getting Started](get-started)
 ## Credits
 This modding scene, and by extension this website wouldn't be possible without the help of some amazing people:
 
-- ProfessionalThonker/CaveStoryKing64: Having the perseverance and sheer testicle girth to organise and maintain such a futile and pointless scene
+- ProfessionalThonker: Having the perseverance and sheer testicle girth to organise and maintain such a futile and pointless scene
 - Fullmetal5: Bluebomb exploit and misc software black magic
 - DeadlyFoez: Initial hardware exploration, experimentation and poking around. Credit for all Wii mini board images goes to him, unless otherwise noted.
 - DestroyedEdge: Being edgy
