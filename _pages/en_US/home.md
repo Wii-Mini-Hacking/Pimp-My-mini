@@ -12,7 +12,7 @@ excerpt: "The complete guide to hardware modding your Nintendo Wii mini"
 <!--The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
 {: .notice--info}-->
 
-This guide is a work-in-progress. Please do not use this guide if you read this message. Instead, you can visit our Discord server linked above for help and manual support.
+This guide has been deprecated, you may visit the new version at [wiimini.hacks.guide](https://wiimini.hacks.guide)
 {: .notice--warning}
 
 ## So what is "hardware modding"?
